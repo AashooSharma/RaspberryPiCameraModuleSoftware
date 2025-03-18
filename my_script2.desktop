@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=My Python Camera
+Exec=python3 /home/rpiserver/Desktop/camera_capture5.py
+Icon=/home/rpiserver/Pictures/icon.png
+Terminal=false  # Agar terminal chahiye toh true kar do
